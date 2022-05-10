@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning: Js, NodeJs, React, React Native
 <div align="center">
    <a href="https://github.com/GabrielRoqueDev">
-      <img width="160em"  src="https://github-readme-stats.vercel.app/api?username=GabrielRoqueDev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-      <img width="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRoqueDev&layout=compact&langs_count=7&theme=midnight-purple"/>
+      <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=GabrielRoqueDev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+      <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRoqueDev&layout=compact&langs_count=7&theme=midnight-purple"/>
      </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="Roq-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
